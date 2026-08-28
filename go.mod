@@ -2,7 +2,7 @@ module allwright.dev/go_sample
 
 go 1.26.5
 
-require allwright.dev v0.0.36
+require allwright.dev v0.0.42
 
 require (
 	golang.org/x/net v0.42.0 // indirect

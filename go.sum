@@ -1,5 +1,5 @@
-allwright.dev v0.0.36 h1:LUaS9rF5cxLFtwqU8YUhgpKNExIlWKY0yzdthBFKgRs=
-allwright.dev v0.0.36/go.mod h1:79xzogxQYVbeVIDPaH+JwmOtZ3kC24kmWWCIHnNAZUk=
+allwright.dev v0.0.41 h1:Ween67c/WWPLq4DHJ7DJm1doVykIvoITh2ZJU8JjkQ8=
+allwright.dev v0.0.41/go.mod h1:79xzogxQYVbeVIDPaH+JwmOtZ3kC24kmWWCIHnNAZUk=
 github.com/go-logr/logr v1.4.3 h1:CjnDlHq8ikf6E492q6eKboGOC0T8CDaOvkHCIg8idEI=
 github.com/go-logr/logr v1.4.3/go.mod h1:9T104GzyrTigFIr8wt5mBrctHMim0Nb2HLGrmQ40KvY=
 github.com/go-logr/stdr v1.2.2 h1:hSWxHoqTgW2S2qGc0LTAI563KZ5YKYRhT3MFKZMbjag=
