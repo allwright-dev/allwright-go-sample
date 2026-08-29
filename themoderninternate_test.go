@@ -9,7 +9,7 @@ import (
 	allwright "allwright.dev"
 )
 
-func TestAdd(t *testing.T) {
+func TestTheModernInternet(t *testing.T) {
 
 	defer func() {
 		if err := allwright.Shutdown(); err != nil {
